@@ -1,0 +1,27 @@
+h1 {
+	font-size: 50px;
+	color: white;
+	background-color: maroon;
+}
+.box{
+	min-height: 100vh;
+	color: white;
+	background-color: red;
+}
+.ques{
+	padding: 20px;
+	cursor: pointer;
+}
+.answ{
+	padding: 20px;
+	display: none;
+}
+#draggable { 
+	width: 250px; 
+	height: 150px; 
+	padding: 10px;
+	background-color: red;
+}
+.box_1{
+	min-height: 600px;
+}
